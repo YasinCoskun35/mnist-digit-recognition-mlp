@@ -1,0 +1,4 @@
+keras==2.8.0
+numpy==1.21.4
+scikit_learn==1.0.2
+tensorflow==2.8.0
